@@ -1,0 +1,12 @@
+{
+  "presets": [ "es2015-node" ],
+  "plugins": [
+    "transform-object-rest-spread",
+    ["module-resolver", {
+      "root": ["./src"],
+      "alias": {
+          "submodule": "module1/submodule"
+      }
+    }]
+  ],
+}

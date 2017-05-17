@@ -1,0 +1,1 @@
+export default sky = 'I\'m from module 2'
