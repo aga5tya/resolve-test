@@ -3,10 +3,7 @@
   "plugins": [
     "transform-object-rest-spread",
     ["module-resolver", {
-      "root": ["./src"],
-      "alias": {
-          "submodule": "./src/module1/submodule"
-      }
+      "root": ["./src"]
     }]
   ]
 }

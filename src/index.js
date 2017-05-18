@@ -1,6 +1,6 @@
 import sky from 'module1'
 import skyComp from 'module1/another_component'
-import subSky from 'submodule/example'
+import subSky from 'module1/submodule/example'
 
 const obj = {
     key: 'value',
