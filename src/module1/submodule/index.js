@@ -1,1 +1,1 @@
-export default sky = 'I\'m from module 1'
+export default 'I\'m from module 1 on sub'

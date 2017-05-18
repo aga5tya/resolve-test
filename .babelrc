@@ -5,8 +5,8 @@
     ["module-resolver", {
       "root": ["./src"],
       "alias": {
-          "submodule": "module1/submodule"
+          "submodule": "./src/module1/submodule"
       }
     }]
-  ],
+  ]
 }

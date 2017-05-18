@@ -1,1 +1,1 @@
-export default sky = 'I\'m from module 1 example.js'
+export default 'I\'m from module 1 example.js'

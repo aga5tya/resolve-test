@@ -1,0 +1,1 @@
+export default 'I\'m from module 1'
